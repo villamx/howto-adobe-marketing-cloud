@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<index>
+<players>
+<player>
+<name><![CDATA[iPod]]></name>
+<navigation><![CDATA[Touch Wheel]]></navigation>
+<capacity><![CDATA[10 GB|20 GB]]></capacity>
+<modelNumber><![CDATA[A1019]]></modelNumber>
+<dateIntroduced><![CDATA[2002-07]]></dateIntroduced>
+<generation><![CDATA[second]]></generation>
+<description><![CDATA[All iPod (Touch Wheel) models have a FireWire port cover.]]></description>
+</player>
+<player>
+<name><![CDATA[iPod]]></name>
+<navigation><![CDATA[Scroll Wheel]]></navigation>
+<capacity><![CDATA[5 GB|10 GB]]></capacity>
+<modelNumber><![CDATA[M8541]]></modelNumber>
+<dateIntroduced><![CDATA[2001-10]]></dateIntroduced>
+<generation><![CDATA[first]]></generation>
+<description><![CDATA[iPod (Scroll Wheel) models have a scroll wheel that physically turns.]]></description>
+</player>
+</players>
+</index>
